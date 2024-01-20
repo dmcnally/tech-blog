@@ -1,0 +1,13 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "AMI" # the name of your site, e.g. ACME Corp.
+plugins:
+  - jekyll-postcss
+  - jekyll_post_css_builder
+  - jekyll-sitemap
+
+include: ["node_modules/tailwindcss"]
+
+destination: _site
+lang: 'en-gb'
+
