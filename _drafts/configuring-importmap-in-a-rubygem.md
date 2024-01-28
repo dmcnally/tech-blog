@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Configuring Importmap in a Rubygem"
 ---
 
-# Importmap Woes
+# Importmap
 
 ## Introduction
 
